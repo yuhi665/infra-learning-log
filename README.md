@@ -15,5 +15,3 @@ What I learned:
 Issues / Questions:
 
 * How to connect this repo with my local environment
-
-\- 2025-12-16: Connected local environment with GitHub
