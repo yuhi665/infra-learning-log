@@ -1,7 +1,7 @@
 # infra-learning-log
 Hands-on learning logs for Linux, AWS, and Web
 
-### 2025-XX-XX
+### 2025-12-16
 What I did:
 - Created my first GitHub repository and README
 
